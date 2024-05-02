@@ -1,0 +1,11 @@
+@media screen and (min-width: 375px) {
+  .flex.items-end {
+    height: 400px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .flex.items-end {
+    height: 700px;
+  }
+}
